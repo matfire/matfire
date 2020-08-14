@@ -11,3 +11,12 @@
 📫 How to reach me: You can find me mostly on [Twitter](https://twitter.com/matgassend) and [LinkedIn](https://www.linkedin.com/in/matteo-gassend)
 
 ⚡ Fun fact: I'm moving to Sweden for my 1st year master's degree !
+
+## Did you know I also have a [blog](blog.matteogassend.com)?
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Here's some stats
+ 
+ ![Matfire's stats](https://github-readme-stats.vercel.app/api?username=matfire&show_icons=true&theme=tokyonight)
