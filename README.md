@@ -15,6 +15,7 @@
 ## Did you know I also have a [blog](blog.matteogassend.com)?
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with NestJS: A mix between a rant and (hopefully) some useful advice](https://blog.matteogassend.com/working-with-nestjs-a-mix-between-a-rant-and-hopefully-some-useful-advice-ckdu1tkxr01bfrls11qnk67fw)
 <!-- BLOG-POST-LIST:END -->
 
 ## Here's some stats
