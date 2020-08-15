@@ -15,6 +15,7 @@
 ## Did you know I also have a [blog](blog.matteogassend.com)?
 
 <!-- BLOG-POST-LIST:START -->
+- [A beginner's guide to React: the evergreen To-Do List](https://blog.matteogassend.com/a-beginners-guide-to-react-the-evergreen-to-do-list-ckdvrrpt301kcids1deticm5c)
 - [Working with NestJS: A mix between a rant and (hopefully) some useful advice](https://blog.matteogassend.com/working-with-nestjs-a-mix-between-a-rant-and-hopefully-some-useful-advice-ckdu1tkxr01bfrls11qnk67fw)
 <!-- BLOG-POST-LIST:END -->
 
