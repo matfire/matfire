@@ -10,8 +10,6 @@
 
 📫 How to reach me: You can find me mostly on [Twitter](https://twitter.com/matgassend) and [LinkedIn](https://www.linkedin.com/in/matteo-gassend)
 
-⚡ Fun fact: I'm moving to Sweden for my 1st year master's degree !
-
 ## Did you know I also have a [blog](blog.matteogassend.com)?
 
 <!-- BLOG-POST-LIST:START -->
